@@ -1,9 +1,8 @@
 import React, { Component } from "react";
-import styled from "styled-components";
 
 class App extends Component {
   render() {
-    return <div />;
+    return <div>My first static email</div>;
   }
 }
 
